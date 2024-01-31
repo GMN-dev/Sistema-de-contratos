@@ -1,0 +1,13 @@
+# Arquivos específicos de IDEs
+.idea/
+JRE\ System\ Library\ [JavaSE-*]/
+
+# Arquivos de compilação e diretórios
+bin/
+target/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
